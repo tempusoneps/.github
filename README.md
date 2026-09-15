@@ -78,7 +78,7 @@ flowchart TD
 
 ## Repository Directory
 
-The ecosystem comprises 17 purpose-built repositories categorized into five core domains:
+The ecosystem comprises 17 core functional repositories across 5 operational layers (alongside organizational repository governance):
 
 ### 1. Data Ingestion & Analytics
 
